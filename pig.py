@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 """ A Pig Dice Game."""
 
+#Author: Erica Liz
+
 import random
 import sys
 
